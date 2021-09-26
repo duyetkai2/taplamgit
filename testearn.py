@@ -4,5 +4,4 @@ def chuoi(str):
     for i in str.split():
         if len(i)>3:
             lst.append(i)
-            print(lst)
 chuoi(str)
